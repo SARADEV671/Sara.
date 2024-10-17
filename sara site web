@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+    <head>
+        
+        <meta charset="UTF-8">
+        <title> NADIFI SARA</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylsheet" href="./style.css">
+        <style>
+            .SARA  {
+    float: left;
+    width: 100px;
+    height: 100PX;
+    margin-right: 30px;
+    border-radius: 50%;
+  }
+  .name{
+    color:rgb(94, 94, 224);
+    text-shadow: 3px 3px 5px grey;
+    font-family:sans-serif;
+    font-size: 3rem;
+    padding-top: 5%;
+  }
+  span{
+    color: rgb(10, 17, 125);
+  }
+  .apropos{
+    color: rgb(20, 18, 18);
+    font-family:serif;
+  }
+  #box1{
+    border: 1px solid cornflowerblue;
+    background-color: rgb(219, 214, 241);
+    margin:1rem ;
+    border-radius: 5%;
+    padding: 10px;
+  }
+ 
+    
+
+        </style>
+        <head>
+            <body>
+
+                <img class="SARA " src="SARA PHOTO.jpg" alt= sara nadifi photo >
+                <h1 class="name"> <span>SARA</span> NADIFI</h1>
+                <P class="apropos"> Ancienne enseignante de mathématiques avec une licence 
+                    en mathématiques et un master en technologies éducatives. 
+                    Je suis en reconversion vers le développement web, actuellement 
+                    en formation intensive en HTML, CSS et JavaScript, 
+                    avec l'objectif de devenir développeuse Full Stack. Rigoureuse et passionnée,
+                     je suis à la recherche de nouvelles opportunités pour évoluer dans ce domaine.
+                </P>
+                <div id="box1">
+                    <div classe="bac">   <h1>2014 : Baccalauréat sciences mathématiques</h1> </div>
+                        <p>En 2014, j'ai obtenu mon baccalauréat en Sciences Mathématiques au Lycée Ibn Tofail à Oued Zem</p>
+                <a href="SARA_NADIFi bac.pdf">mon Baccalauréat</a>
+                </div>
+                <div class="diplome 2">
+                 <h1> 2014-2017: licence professionel d'enseignement mathèmatique </h1>
+                </div>
+                <div class="licence">
+                    <p>En 2017, j'ai obtenu ma licence en Mathématiques à l'école normale supérierur  à Rabat.</p>
+                    <a href="SARA_NADIFi licence.pdf"> Ma licence  </a>
+
+                </div>
+                 <div classe="diplome 3"> <h1> 2022-2024 : Master en théchnologie de l'éducation et innovation pédagogique</h1></div>
+                <div classe="master"> 
+                    <p>En 2024, j'ai obtenu mon master en Technologies de l'Éducation à la Faculté des Sciences de l'Éducation à Rabat.</p>
+
+                    <a href="SARA_NADIFi master.pdf"> Mon master  </a>
+
+                </div>
+                <div>
+                <div>
+                   <h1> 2017 - 2024 :Enseignante de Mathématiques
+                    Ministère de l'Éducation Nationale, Maroc
+                   </h1>
+                </div>
+                <p>Enseignement des mathématiques à des élèves du collège et du lycée,
+                     en adaptant les méthodes pédagogiques aux différents niveaux d'apprentissage.</p>
+                     <a href="Attestation de travail.pdf"> Attestation de travail </a>
+            </div>
+
+            <footer>
+                
+            </footer>
+
+
